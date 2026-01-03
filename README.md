@@ -22,7 +22,7 @@
 
 ### Téléchargement
 **Version précompilée** :
-   Télécharge la dernière version depuis les [releases GitHub](https://github.com/ton-repo/hus-clean/releases).
+   Télécharge la dernière version depuis les [releases GitHub](https://github.com/Spellskite-coding/hus-clean/releases/).
 
 
 ## 🚀 Utilisation :
