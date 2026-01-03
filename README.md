@@ -51,7 +51,6 @@ Intégration du manifest
 
 ## Le projet inclut un manifest Windows (HusClean.exe.manifest) pour :
 
-Éviter les demandes UAC.
-Décrire clairement l'outil aux antivirus.
+Éviter les demandes UAC et décrire clairement l'outil aux antivirus.
 
 © 2026 Spellskite-coding et Thomas Scholl (https://github.com/Skoll1470) et Marwane Toury (https://github.com/MarwaneToury).
